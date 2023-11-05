@@ -75,6 +75,6 @@ The project is divided into packages that represent different aspects of the app
 4. Access Swagger to test the API: `http://localhost:8088/swagger-ui/index.html`
 
 ## Authors
-- [Mohamed Fezzazi](https://github.com/MaskedFezz) (Email: mohamedfezzazi22@gmail.com)
+- [Mohamed Fezzazi](https://github.com/MaskedFezz) (Email address: mohamedfezzazi22@gmail.com)
 - [Mohamed Lachgar ](https://github.com/lachgar) (Professor)
 
