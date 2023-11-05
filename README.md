@@ -1,6 +1,6 @@
 # School Management System with Spring Boot
 
-This project is a School Management System built with Spring Boot, Maven, Hibernate, JPA, and SQL database. It provides essential functionality to create, read, update, and delete (CRUD) students, roles, and filieres. The project also includes Swagger for easy testing and interaction with the API.
+This project is a School Management System built with Spring Boot, Maven, Hibernate, JPA, and SQL database. It provides essential functionality to create, read, update, and delete (CRUD) students, roles, and filieres. The project also includes Swagger and Postman for easy testing and interaction with the API.
 
 ## Technologies Used
 - Spring Boot
@@ -9,6 +9,7 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 - Hibernate
 - JPA
 - SQL Database
+- Postman
 
 ## Project Features
 1. CRUD operations for students, roles, and filieres.
@@ -66,7 +67,6 @@ The project is divided into packages that represent different aspects of the app
 - Java 17
 - Maven
 - SQL Database
-- Swagger for testing and interaction
 
 ## How to Run the Project
 1. Clone this project to your computer.
