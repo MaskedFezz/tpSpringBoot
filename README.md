@@ -27,6 +27,10 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 ### Student display with Postman
 <img width="638" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/92f2c3aa-f9a6-4ed5-8a5e-d5e52a3d19f1">
 
+### Find by id example
+<img width="632" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/6f5dff8c-67fd-413f-bb69-d6d74d1c5196">
+
+
 #### Student JSON
 <img width="387" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/9d252433-9dd8-4ffe-8a4f-73bd4022d00b">
 
@@ -37,6 +41,10 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 
 ### Filiere display with postman
 <img width="633" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/df214617-cb02-4c6d-91b1-9eb316397196">
+
+### Delete example
+<img width="625" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/72f72fb9-83dc-4b23-afc4-33306591e839">
+
 
 #### Filiere JSON
 <img width="300" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/4286363a-da43-4b93-84fa-588b4a809fb8">
@@ -49,6 +57,9 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 
 ### Roles display with postman
 <img width="639" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/4cbb1f3c-ae2c-48cd-b2e8-92c82a6526d8">
+
+### Update example
+<img width="626" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/27fc3a82-bacb-433e-bbb5-e26b2f9ac2c3">
 
 #### Role JSON
 <img width="305" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/5f0fa5e9-e8d9-4d32-8fc7-de88cd5ddcaa">
