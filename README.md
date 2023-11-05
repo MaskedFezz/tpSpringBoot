@@ -15,6 +15,8 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 2. Utilize Swagger for easy testing and API interaction.
 
 ## Screenshots
+### Data Base
+<img width="579" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/8c8f7000-1cc9-43f7-81cc-50d89a9a5b00">
 
 ### Swagger Student API 
 <img width="942" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/532a3d95-5421-493f-be81-2c1ef3e23cb4">
