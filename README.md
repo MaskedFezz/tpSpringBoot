@@ -21,11 +21,21 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 ### Swagger Student API 
 <img width="942" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/532a3d95-5421-493f-be81-2c1ef3e23cb4">
 
+<img width="917" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/c15bb29d-9771-4ebc-8108-ede6344dd50f">
+
+### Student display with Postman
+<img width="638" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/92f2c3aa-f9a6-4ed5-8a5e-d5e52a3d19f1">
+
 #### Student JSON
 <img width="387" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/9d252433-9dd8-4ffe-8a4f-73bd4022d00b">
 
 ### Swagger Filiere API 
 <img width="935" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/1b77ea44-6a91-4e72-9a11-23f896cfeeea">
+
+<img width="861" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/2b4aa990-ddcc-4212-a7bc-fc7373234df9">
+
+### Filiere display with postman
+<img width="633" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/df214617-cb02-4c6d-91b1-9eb316397196">
 
 #### Filiere JSON
 <img width="300" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/4286363a-da43-4b93-84fa-588b4a809fb8">
@@ -33,6 +43,11 @@ This project is a School Management System built with Spring Boot, Maven, Hibern
 
 ### Swagger Role API 
 <img width="942" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/8f77a34a-3829-47ab-815b-6f0986239661">
+
+<img width="861" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/5431d4ef-4676-4f00-b22b-9911f96d89c6">
+
+### Roles display with postman
+<img width="639" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/4cbb1f3c-ae2c-48cd-b2e8-92c82a6526d8">
 
 #### Role JSON
 <img width="305" alt="image" src="https://github.com/MaskedFezz/tpSpringBoot/assets/130797834/5f0fa5e9-e8d9-4d32-8fc7-de88cd5ddcaa">
